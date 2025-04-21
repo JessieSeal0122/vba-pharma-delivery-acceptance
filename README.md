@@ -73,7 +73,7 @@ However, you can prepare your own based on these field suggestions:
 
 ## 🧩 License
 
-MIT License – Free for use and modification. No warranties provided.
+This project is licensed under the MIT License – feel free to use, modify, or distribute with proper attribution.
 
 ---
 
