@@ -41,9 +41,7 @@ This macro automates that entire process by:
 ---
 
 ## 📁 Repository Structure
-/src/
-    DeliveryMergeModule.bas        ← VBA macro module
-
+- [`/src/DeliveryMergeModule.bas`](./src/DeliveryMergeModule.bas) ← VBA macro module
 
 ---
 
