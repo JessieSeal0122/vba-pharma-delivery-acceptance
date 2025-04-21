@@ -41,7 +41,8 @@ This macro automates that entire process by:
 ---
 
 ## 📁 Repository Structure
-/src/ DeliveryMergeModule.bas ← VBA macro module /example/ (Optional) Sample Excel or template references
+/src/
+    DeliveryMergeModule.bas        ← VBA macro module
 
 
 ---
