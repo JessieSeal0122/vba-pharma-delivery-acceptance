@@ -1,1 +1,1 @@
-
+Remove placeholder from images/
